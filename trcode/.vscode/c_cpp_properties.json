@@ -10,13 +10,14 @@
             "includePath": [
                 "/Users/cerendolu/Documents/GitHub/tripod/trcode/include",
                 "/Users/cerendolu/Documents/GitHub/tripod/trcode/src",
+                "/Users/cerendolu/Documents/GitHub/tripod/trcode/.pio/libdeps/uno/MPU6050/src",
+                "/Users/cerendolu/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                 "/Users/cerendolu/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "/Users/cerendolu/.platformio/packages/framework-arduino-avr/variants/standard",
                 "/Users/cerendolu/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "/Users/cerendolu/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                 "/Users/cerendolu/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
                 "/Users/cerendolu/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
-                "/Users/cerendolu/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                 ""
             ],
             "browse": {
@@ -24,13 +25,14 @@
                 "path": [
                     "/Users/cerendolu/Documents/GitHub/tripod/trcode/include",
                     "/Users/cerendolu/Documents/GitHub/tripod/trcode/src",
+                    "/Users/cerendolu/Documents/GitHub/tripod/trcode/.pio/libdeps/uno/MPU6050/src",
+                    "/Users/cerendolu/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                     "/Users/cerendolu/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "/Users/cerendolu/.platformio/packages/framework-arduino-avr/variants/standard",
                     "/Users/cerendolu/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                     "/Users/cerendolu/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                     "/Users/cerendolu/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
                     "/Users/cerendolu/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
-                    "/Users/cerendolu/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
                     ""
                 ]
             },
